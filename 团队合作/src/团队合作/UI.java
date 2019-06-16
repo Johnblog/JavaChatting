@@ -41,8 +41,7 @@ public class UI {
 
     public UI() {
         kehuduan();
-
-    }
+}
     
 
 //客户端界面
